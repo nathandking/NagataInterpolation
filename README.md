@@ -7,3 +7,5 @@ Start by running tests in Examples directory.
 * Input for curves in 2D: 2 points and 2 corresponding normals.
 * Input for curves in 3D: 2 points and 2 corresonding normals.
 * Input for patches in 3D: 3 points, their connectivity (triangle), 3 corresponding normals.
+
+[![View Nagata Interpolation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/85964-nagata-interpolation)
