@@ -4,6 +4,6 @@ Quadratic interpolation of curves in 2D and 3D based on two points and their cor
 
 Start by running tests in Examples directory.
 
--Input for curves in 2D: 2 points and 2 corresponding normals.
--Input for curves in 3D: 2 points and 2 corresonding normals.
--Input for patches in 3D: 3 points, their connectivity (triangle), 3 corresponding normals.
+* Input for curves in 2D: 2 points and 2 corresponding normals.
+* Input for curves in 3D: 2 points and 2 corresonding normals.
+* Input for patches in 3D: 3 points, their connectivity (triangle), 3 corresponding normals.
